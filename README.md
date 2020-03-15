@@ -1,2 +1,5 @@
 # cypress-newsletter-subscription
-test automation of cypress.io newsletter subscription (in cypress)
+
+Requires installation of MailSlurp client package from npm:
+
+   npm install --save mailslurp-client
