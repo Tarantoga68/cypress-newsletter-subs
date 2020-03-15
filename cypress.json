@@ -1,0 +1,6 @@
+{
+  "baseUrl": "https://cypress.io",
+  "env": {
+    "API_KEY": "9a59e1bad36be9cd34646e23d7631611001af63d64968f920db3f805233f4459"
+  }
+}
